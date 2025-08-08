@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/kUTME7ABmhYg5J3psM/giphy.gif" width="35%" alt="Coding Animation">
-</div>
-
-<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Prerna%20Samtani&desc=Frontend%20Developer%20|%20UI/UX%20Designer%20|%20CS%20Undergrad&fontColor=ffffff&fontSize=65&fontAlignY=35&descAlignY=52&descAlign=62&animation=fadeIn)
 
@@ -10,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6B73FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Frontend+Developer+%7C+UI%2FUX+Designer;Building+elegant+web+experiences+with+passion;Transforming+ideas+into+beautiful+interfaces)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6B73FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Fullstack+Developer+%7C+UI%2FUX;Building+elegant+web+experiences+with+passion;Transforming+ideas+into+beautiful+interfaces)](https://git.io/typing-svg)
 
 </div>
 
