@@ -166,8 +166,7 @@ Accessibility         •    Agile Development       •    Team Leadership
 
 ## 📈 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prern-a&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=6b73ff&icon_color=6b73ff&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prern-a&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6b73ff&text_color=c9d1d9" />
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prern-a&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6b73ff&text_color=c9d1d9" />
 
 </div>
 
